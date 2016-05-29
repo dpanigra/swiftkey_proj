@@ -31,7 +31,7 @@ Follow the steps in order mentioned by numbered red circle:
 ![Use Manual](assets/img/manual.png)
 
 ---
-## Data Structure, Algorithm, and procedure Used
+## Data Structure, Algorithm, and Procedure used
 - VCorpus and TermDocumentMatrix Data Structures are used to help create the n-grams.
 - Weka is used to create the different n-grams (bi-, tri-, quad-, and, penta-grams)
 - The n-grams created in above step are stored in a SQLite database.
